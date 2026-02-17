@@ -57,15 +57,15 @@ src/
    http://localhost:4200
    ```
 ## Learning Goals
-Understand Angular standalone components
-Learn basic data binding (Interpolation, Property, Event)
-Practice component structure and templates
-Get familiar with Angular 21 project setup
+-Understand Angular standalone components
+-Learn basic data binding (Interpolation, Property, Event)
+-Practice component structure and templates
+-Get familiar with Angular 21 project setup
 
 
 ## Notes
-This project is intentionally kept simple and beginner-friendly.
-More features can be added later such as routing, services, and state management.
+-This project is intentionally kept simple and beginner-friendly.
+-More features can be added later such as routing, services, and state management.
 
 
 ## Author
